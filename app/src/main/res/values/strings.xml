@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prog7</string>
+    <string name="enter_text_to_copy">Enter text to copy</string>
+    <string name="copy_to_clipboard">Copy to Clipboard</string>
+    <string name="pasted_text_will_appear_here">Pasted text will appear here</string>
+    <string name="paste_from_clipboard">Paste from Clipboard</string>
+</resources>
